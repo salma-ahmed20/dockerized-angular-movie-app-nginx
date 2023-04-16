@@ -10,7 +10,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 This project is about making a containerized version of the angular movie and host it on nginx.
 
-**Runnind the website on a container will help to:** 
+Runnind the website on a container will help to :
 - deploy the website very easily with only one docker command.
 - you don't need to worry about the dependancies of the app docker image will contain every thing the app need to run in the container. 
 
