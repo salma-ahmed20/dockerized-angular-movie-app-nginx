@@ -18,6 +18,4 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 - The Movie DB get Your own api key -> https://www.themoviedb.org
 - Firebase get your own firebase data -> https://firebase.google.com
 
-Live Demo https://flixmovies-82298.firebaseapp.com
-
 
